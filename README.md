@@ -1,4 +1,3 @@
-````markdown
 # 🎯 Cbot - Advanced Roblox PvP Utility Script
 
 ![Preview](https://files.catbox.moe/innrgm.png)
